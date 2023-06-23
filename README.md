@@ -10,7 +10,11 @@ To install this application, download the respository and open it VSCode. From t
 
 ## Usage
 
-Once you have ran the "node index.js" command within the specified folder within VSCode, the application will prompt you to answer questions that are required when writing a professional README file. Press the "Enter" key after each question asked. Once complete, the README file will generate within the folder you opened with VSCode. Save the file, then navigate to the folder that you downloaded from this repository. The README file should be within. Copy/paste the README file wherever needed to easily upload to your GitHub project repository. You can also preview the README file as it would appear on your GitHub repository by right-clicking on the generated README file and clicking "Open With..." then "Markdown Preview" after finishing the prompted questions in VSCode.
+Once you have ran the "node index.js" command within the specified folder within VSCode, the application will prompt you to answer questions that are required when writing a professional README file. Press the "Enter" key after each question asked. Once complete, the README file will generate within the folder you opened with VSCode. Save the file, then navigate to the folder that you downloaded from this repository. The README file should be within. Copy/paste the README file wherever needed to easily upload to your GitHub project repository. You can also preview the README file as it would appear on your GitHub repository by right-clicking on the generated README file and clicking "Open With..." then "Markdown Preview" after finishing the prompted questions in VSCode. A screenshot showing this preview is as follows:
+
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
 
 ## Credits
 
